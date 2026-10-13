@@ -1,0 +1,46 @@
+.styled-heading {
+    text-align : center ;
+    text-decoration: underline;
+    vertical-align : top ; 
+    color: red;
+   
+}
+
+.paragraph{
+    text-align :center;
+    text-transform: none; 
+    line-height: 50px;
+    background-color: aquamarine;
+    text-transform: capitalize;
+    letter-spacing: 5px;
+}
+
+a {
+   
+    background-color: chartreuse;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.container {
+  height: 100px;
+  line-height: 20px;
+  border: 1px solid #ccc;
+}
+
+.middle-text {
+  vertical-align: top ;
+}
+
+.heading_1{
+
+  font-family: "Edu QLD Hand", cursive;
+  font-style: normal;
+  color : palegreen;
+  background-color: cornflowerblue;
+  text-align: center;
+}
+
+
+
+
